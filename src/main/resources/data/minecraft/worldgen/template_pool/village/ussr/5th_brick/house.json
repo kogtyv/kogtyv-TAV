@@ -30,6 +30,24 @@
       }
     },
     {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/red_brick_longer/home",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/red_brick_qubille/home",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
       "weight": 10,
       "element": {
         "element_type": "minecraft:empty_pool_element"
