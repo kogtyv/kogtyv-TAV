@@ -1,0 +1,42 @@
+{
+  "name": "minecraft:village/ussr/houses/p2dec_5_clasic/paraped",
+  "fallback": "minecraft:village/ussr/houses/p2dec_5_clasic/paraped",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p2dec_5_clasic/paraped/paraped_polished_diorite",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p2dec_5_clasic/paraped/paraped_iron_bars",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p2dec_5_clasic/paraped/paraped_polished_andesite",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p2dec_5_clasic/paraped/paraped_polished_granite",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

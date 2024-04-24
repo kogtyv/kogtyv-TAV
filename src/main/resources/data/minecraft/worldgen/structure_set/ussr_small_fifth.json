@@ -1,0 +1,16 @@
+{
+  "structures": [
+	{
+	  "structure": "minecraft:ussr_small_fifth",
+	  "weight": 1
+	}
+  ],
+  "placement": {
+	"type": "minecraft:random_spread",
+	"salt": 23042024,
+	"frequency": 0.2,
+	"spread_type": "triangular",
+	"spacing": 18,
+	"separation": 3
+  }
+}

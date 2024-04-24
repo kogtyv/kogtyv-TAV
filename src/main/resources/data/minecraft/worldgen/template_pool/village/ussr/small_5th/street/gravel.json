@@ -1,0 +1,75 @@
+{
+  "name": "minecraft:village/ussr/small_5th/street/gravel",
+  "fallback": "minecraft:village/ussr/small_5th/street/terminator_gravel",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/ussr/small_5th/street/gravel/street_1",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:village/ussr/small_5th/street/gravel/street_2",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:village/ussr/small_5th/street/gravel/street_3",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/ussr/small_5th/street/gravel/street_4",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/ussr/small_5th/street/gravel/street_5",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/ussr/small_5th/street/gravel/street_6",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/ussr/streets/5th_brick/sidewalk/nothing",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}
