@@ -1,0 +1,75 @@
+{
+  "name": "minecraft:village/ussr/medium_9th/street/polished_andesite",
+  "fallback": "minecraft:village/ussr/medium_9th/street/terminator_polished_andesite",
+  "elements": [
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/street/polished_andesite/street_1",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/street/polished_andesite/street_2",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/street/polished_andesite/street_3",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/street/polished_andesite/street_4",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/street/polished_andesite/street_5",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/street/polished_andesite/street_6",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft:village/ussr/streets/5th_brick/sidewalk/nothing",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

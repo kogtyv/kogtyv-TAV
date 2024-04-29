@@ -1,0 +1,16 @@
+{
+  "structures": [
+	{
+	  "structure": "minecraft:ussr_medium_ninth",
+	  "weight": 1
+	}
+  ],
+  "placement": {
+	"type": "minecraft:random_spread",
+	"salt": 28042024,
+	"frequency": 0.5,
+	"spread_type": "triangular",
+	"spacing": 27,
+	"separation": 6
+  }
+}

@@ -1,16 +1,16 @@
 {
   "structures": [
-    {
-      "structure": "minecraft:ussr_fifth",
-      "weight": 1
-    }
+	{
+	  "structure": "minecraft:ussr_fifth",
+	  "weight": 1
+	}
   ],
   "placement": {
-    "type": "minecraft:random_spread",
-    "salt": 21032024,
-    "frequency": 0.5,
-    "spread_type": "triangular",
-    "spacing": 24,
-    "separation": 8
+	"type": "minecraft:random_spread",
+	"salt": 26042024,
+	"frequency": 0.1,
+	"spread_type": "triangular",
+	"spacing": 38,
+	"separation": 16
   }
 }

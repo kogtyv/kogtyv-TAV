@@ -1,6 +1,6 @@
 {
   "name": "minecraft:village/ussr/small_5th/house/variant_1",
-  "fallback": "minecraft:village/ussr/small_5th/house/variant_1",
+  "fallback": "minecraft:village/ussr/small_5th/house/fallback_variant_1",
   "elements": [
     {
       "weight": 150,
