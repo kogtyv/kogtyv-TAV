@@ -6,7 +6,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_5_1/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -15,7 +15,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_5_2/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -42,7 +42,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/works/sheperd/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -51,7 +51,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/p2dec_5_clasic/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -60,7 +60,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/krutovoy_5/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -69,7 +69,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_5_double_long/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -78,7 +78,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_5_longxe/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }

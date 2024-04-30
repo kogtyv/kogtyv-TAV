@@ -8,9 +8,15 @@
   "placement": {
 	"type": "minecraft:random_spread",
 	"salt": 28042024,
-	"frequency": 0.5,
+	"frequency": 0.055,
+	"exclusion_zone": {
+      "other_set": "minecraft:ussr_small_fifth",
+	  "other_set": "minecraft:ussr_fifth",
+	  "other_set": "minecraft:villages"
+      "chunk_count": 16
+    },
 	"spread_type": "triangular",
-	"spacing": 27,
-	"separation": 6
+	"spacing": 32,
+	"separation": 16
   }
 }

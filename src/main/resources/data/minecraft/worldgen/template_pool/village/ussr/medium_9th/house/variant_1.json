@@ -6,7 +6,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_1/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -23,8 +23,17 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/double_ninthe/home",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_3/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -33,7 +42,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_4/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -69,7 +78,7 @@
       "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_5_shop/home",
-        "processors": "minecraft:village_common",
+        "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
