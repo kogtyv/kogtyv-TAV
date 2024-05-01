@@ -19,6 +19,24 @@
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/double_ninthe/fundament_b",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/double_ninthe/fundament_c",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
     }
   ]
 }

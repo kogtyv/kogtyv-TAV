@@ -12,7 +12,6 @@
 	"exclusion_zone": {
       "other_set": "minecraft:ussr_small_fifth",
 	  "other_set": "minecraft:ussr_fifth",
-	  "other_set": "minecraft:villages"
       "chunk_count": 16
     },
 	"spread_type": "triangular",

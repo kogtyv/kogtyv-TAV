@@ -32,6 +32,15 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/double_ninthe/shop",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_3/home",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
