@@ -5,7 +5,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "minecraft:village/ussr/housess/yuzhnoukrayinsk_svechka/fundament_a",
+        "location": "minecraft:village/ussr/houses/yuzhnoukrayinsk_svechka/fundament_a",
         "processors": "minecraft:set_cobblestone",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -14,7 +14,7 @@
 	{
       "weight": 1,
       "element": {
-        "location": "minecraft:village/ussr/housess/yuzhnoukrayinsk_svechka/fundament_b",
+        "location": "minecraft:village/ussr/houses/yuzhnoukrayinsk_svechka/fundament_b",
         "processors": "minecraft:set_cobblestone",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -23,7 +23,7 @@
 	{
       "weight": 1,
       "element": {
-        "location": "minecraft:village/ussr/housess/yuzhnoukrayinsk_svechka/fundament_c",
+        "location": "minecraft:village/ussr/houses/yuzhnoukrayinsk_svechka/fundament_c",
         "processors": "minecraft:set_cobblestone",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -32,7 +32,7 @@
 	{
       "weight": 1,
       "element": {
-        "location": "minecraft:village/ussr/housess/yuzhnoukrayinsk_svechka/fundament_d",
+        "location": "minecraft:village/ussr/houses/yuzhnoukrayinsk_svechka/fundament_d",
         "processors": "minecraft:set_cobblestone",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
