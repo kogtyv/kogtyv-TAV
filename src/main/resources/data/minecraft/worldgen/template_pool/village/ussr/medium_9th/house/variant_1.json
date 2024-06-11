@@ -113,6 +113,24 @@
     {
       "weight": 10,
       "element": {
+        "location": "minecraft:village/ussr/decorative/park_01",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/ussr/decorative/park_02",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
         "element_type": "minecraft:empty_pool_element"
       }
     }
