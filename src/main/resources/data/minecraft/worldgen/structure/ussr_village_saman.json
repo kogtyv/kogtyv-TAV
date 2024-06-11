@@ -10,7 +10,7 @@
   "step": "surface_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",
-  "start_pool": "minecraft:village/ussr/village/saman/centre",
+  "start_pool": "minecraft:village/ussr/saman/center",
   "size": 7,
   "start_height": {
 	"absolute": 0
