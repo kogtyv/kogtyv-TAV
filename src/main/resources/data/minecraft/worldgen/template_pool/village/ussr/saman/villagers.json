@@ -1,6 +1,6 @@
 {
-  "name": "minecraft:village/ussr/village/saman/villagers",
-  "fallback": "minecraft:village/ussr/village/saman/villagers",
+  "name": "minecraft:village/ussr/saman/villagers",
+  "fallback": "minecraft:village/ussr/saman/villagers",
   "elements": [
     {
       "weight": 10,
