@@ -1,6 +1,5 @@
 {
   "name": "minecraft:village/ussr/works/drukarnia/fundament",
-  "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,

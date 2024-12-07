@@ -1,0 +1,51 @@
+{
+  "name": "minecraft:village/europe/europe_small/streets/variant_2",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/street/variant_1_corner",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/street/variant_2_corner",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/street/variant_3_corner",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/street/variant_4_corner",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/street/variant_5_corner",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

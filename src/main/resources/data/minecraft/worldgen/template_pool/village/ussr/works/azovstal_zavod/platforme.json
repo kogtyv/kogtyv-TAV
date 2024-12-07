@@ -1,6 +1,5 @@
 {
   "name": "minecraft:village/ussr/works/azovstal_zavod/platforme",
-  "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 30,

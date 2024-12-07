@@ -1,6 +1,5 @@
 {
   "name": "minecraft:village/ussr/works/drukarnia/furniture",
-  "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,

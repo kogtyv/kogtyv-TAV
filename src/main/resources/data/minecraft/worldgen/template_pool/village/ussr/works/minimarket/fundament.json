@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:village/ussr/works/minimarket/fundament",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/works/minimarket/fundaments/main",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/ussr/works/minimarket/fundament"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "minecraft:village/ussr/testificate/build",
+  "fallback": "minecraft:village/ussr/testificate/build",
+  "elements": [
+    {
+      "weight": 150,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/houses/candle/main_yellow_old",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/houses/candle/main_blue_old",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/houses/candle/main_lime_new",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/houses/candle/main_blue_new",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "WGW",
+    "GIG",
+    "G G"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "id": "minecraft:bell",
+    "count": 1
+  },
+  "show_notification": true
+}
+

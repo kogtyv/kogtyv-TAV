@@ -1,0 +1,33 @@
+{
+  "name": "minecraft:village/europe/europe_small/streets/variant_5",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/street/corner_a",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/street/corner_b",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/street/corner_c",
+        "processors": "minecraft:village_common",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

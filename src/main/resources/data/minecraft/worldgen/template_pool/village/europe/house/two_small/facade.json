@@ -1,0 +1,150 @@
+{
+  "name": "minecraft:village/europe/house/two_small/facade",
+  "fallback": "minecraft:village/europe/house/two_small/facade",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/front/variant_1",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/front/variant_2",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/front/variant_3",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/front/variant_4",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/front/variant_5",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/front/variant_6",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/front/variant_7",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/front/variant_8",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/back/variant_1",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/back/variant_2",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/back/variant_3",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/back/variant_4",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/back/variant_5",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/back/variant_6",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/back/variant_7",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/two_small/facade/back/variant_8",
+        "processors": "minecraft:patern_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

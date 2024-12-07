@@ -8,31 +8,47 @@
   "structures": [
     {
       "structure": "minecraft:ussr_fifth",
-      "weight": 1
+      "weight": 30
     },
     {
       "structure": "minecraft:ussr_medium_brick",
-      "weight": 1
+      "weight": 10
     },
     {
       "structure": "minecraft:ussr_medium_mix",
-      "weight": 1
+      "weight": 50
     },
     {
       "structure": "minecraft:ussr_medium_ninth",
-      "weight": 1
+      "weight": 40
     },
     {
       "structure": "minecraft:ussr_small_fifth",
-      "weight": 1
+      "weight": 60
     },
     {
       "structure": "minecraft:ussr_village_saman",
-      "weight": 1
+      "weight": 80
     },
     {
       "structure": "minecraft:village_greece",
+      "weight": 80
+    },
+    {
+      "structure": "minecraft:ussr_corgi",
+      "weight": 40
+    },
+    {
+      "structure": "minecraft:europe_small",
+      "weight": 80
+    },
+    {
+      "structure": "minecraft:bunker",
       "weight": 1
+    },
+    {
+      "structure": "minecraft:omsk",
+      "weight": 40
     }
   ]
 }

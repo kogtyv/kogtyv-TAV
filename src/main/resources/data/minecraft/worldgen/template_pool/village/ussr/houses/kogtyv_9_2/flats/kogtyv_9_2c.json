@@ -3,7 +3,7 @@
   "fallback": "minecraft:village/ussr/houses/kogtyv_9_2/flats/kogtyv_9_2c",
   "elements": [
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_a",
         "processors": "minecraft:set_air_flats",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_b",
         "processors": "minecraft:set_air_flats",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_c",
         "processors": "minecraft:set_air_flats",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_d",
         "processors": "minecraft:set_air_flats",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_e",
         "processors": "minecraft:set_air_flats",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_f",
         "processors": "minecraft:set_air_flats",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_g",
         "processors": "minecraft:set_air_flats",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_h",
         "processors": "minecraft:set_air_flats",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_i",
         "processors": "minecraft:set_air_flats",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_j",
         "processors": "minecraft:set_air_flats",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_k",
         "processors": "minecraft:set_air_flats",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_l",
         "processors": "minecraft:set_air_flats",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_m",
         "processors": "minecraft:set_air_flats",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_n",
         "processors": "minecraft:set_air_flats",
@@ -129,7 +129,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 150,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_o",
         "processors": "minecraft:set_air_flats",
@@ -138,7 +138,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_9_2/flats/flats_big_a_p",
         "processors": "minecraft:set_air_flats",

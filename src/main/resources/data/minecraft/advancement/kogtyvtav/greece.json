@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:birch_planks",
+      "count": 1
+    },
+    "title": "Greek village",
+    "description": "Find a Greek village in the birch forests",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:kogtyvtav/root",
+  "criteria": {
+    "greece": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:village_greece"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "greece"
+    ]
+  ],
+  "rewards": {},
+  "sends_telemetry_event": false
+}

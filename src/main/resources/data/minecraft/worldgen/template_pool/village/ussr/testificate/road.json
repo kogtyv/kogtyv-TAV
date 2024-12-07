@@ -1,0 +1,62 @@
+{
+  "name": "minecraft:village/ussr/testificate/road",
+  "fallback": "minecraft:village/ussr/testificate/road",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/testeficate/roads/type_1",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/testeficate/roads/type_2",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/testeficate/roads/type_3",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/testeficate/roads/type_4",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/testeficate/roads/type_5",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

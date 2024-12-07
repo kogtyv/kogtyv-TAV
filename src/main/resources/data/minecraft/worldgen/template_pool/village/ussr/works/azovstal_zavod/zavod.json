@@ -1,6 +1,5 @@
 {
   "name": "minecraft:village/ussr/works/azovstal_zavod/zavod",
-  "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
@@ -11,7 +10,7 @@
         "element_type": "minecraft:legacy_single_pool_element"
       }
     },
-	{
+	  {
       "weight": 1,
       "element": {
         "location": "minecraft:village/ussr/works/azovstal_zavod/zavod/variant_2",
@@ -20,7 +19,7 @@
         "element_type": "minecraft:legacy_single_pool_element"
       }
     },
-	{
+	  {
       "weight": 1,
       "element": {
         "location": "minecraft:village/ussr/works/azovstal_zavod/zavod/variant_3",
@@ -29,7 +28,7 @@
         "element_type": "minecraft:legacy_single_pool_element"
       }
     },
-	{
+	  {
       "weight": 1,
       "element": {
         "location": "minecraft:village/ussr/works/azovstal_zavod/zavod/variant_4",
@@ -38,7 +37,7 @@
         "element_type": "minecraft:legacy_single_pool_element"
       }
     },
-	{
+	  {
       "weight": 1,
       "element": {
         "location": "minecraft:village/ussr/works/azovstal_zavod/zavod/variant_5",
@@ -46,7 +45,16 @@
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
-    }
+    },
+    {
+        "weight": 1,
+        "element": {
+          "location": "minecraft:village/ussr/works/azovstal_zavod/zavod/variant_6",
+          "processors": "minecraft:village_common",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+        }
+      }
   ],
   "fallback": "minecraft:village/ussr/works/azovstal_zavod/zavod"
 }

@@ -23,6 +23,15 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/kogtyv_9_2/home_balkon",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/double_ninthe/home",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
@@ -68,6 +77,15 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/monikashort_9_1/home_balkon",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/monikaveryshort_9_2/home",
         "processors": "minecraft:village_common",
         "projection": "rigid",
@@ -77,7 +95,43 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/monikaveryshort_9_2/home_balkon",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/monikaveryshort_9_3_decorative/home",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/monikaveryshort_9_3_decorative/home_balkon",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/monikalong_9_4/home",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/monikalong_9_4/home_balkon",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -194,7 +248,25 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/home_balkon",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/p3basya_7_shop/home",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_shop/home_balkon",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -223,6 +295,33 @@
       "element": {
         "location": "minecraft:village/ussr/houses/kogtyv_5_longxe/home",
         "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/sixteen_silver/home",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/ussr/works/dining_hall/home",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/ussr/houses/hospital_a/main",
+        "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }

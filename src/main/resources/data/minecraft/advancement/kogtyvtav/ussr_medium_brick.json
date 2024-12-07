@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:granite"
+    },
+    "title": "A model city",
+    "description": "Find a clean granite city",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:kogtyvtav/ussr_towns",
+  "criteria": {
+    "minecraft:ussr_medium_brick": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_medium_brick"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

@@ -1,6 +1,5 @@
 {
   "name": "minecraft:village/ussr/works/azovstal_zavod/throbe",
-  "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,

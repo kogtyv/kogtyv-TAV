@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:polished_andesite"
+    },
+    "title": "A classic nine-storey city",
+    "description": "Find the nine-storey town",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:kogtyvtav/ussr_towns",
+  "criteria": {
+    "minecraft:ussr_medium_ninth": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_medium_ninth"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

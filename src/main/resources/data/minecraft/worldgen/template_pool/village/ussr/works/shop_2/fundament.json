@@ -1,0 +1,33 @@
+{
+  "name": "minecraft:village/ussr/works/shop_2/fundament",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/works/shop_2/fundaments/main",
+        "processors": "minecraft:set_stone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/works/shop_2/fundaments/sub_a",
+        "processors": "minecraft:set_stone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/works/shop_2/fundaments/sub_b",
+        "processors": "minecraft:set_stone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/ussr/works/shop_2/fundament"
+}

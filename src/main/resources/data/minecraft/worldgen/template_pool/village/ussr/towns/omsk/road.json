@@ -1,0 +1,111 @@
+{
+  "name": "minecraft:village/ussr/towns/omsk/road",
+  "fallback": "minecraft:village/ussr/towns/omsk/road",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/straight/variant_1",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/straight/variant_2",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/straight/variant_3",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/straight/variant_4",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/cross/variant_1",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/cross/variant_2",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/cross/variant_3",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/wave/variant_1",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/wave/variant_2",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/towns/omsk/roads/wave/variant_3",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/streets/5th_brick/sidewalk/nothing",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

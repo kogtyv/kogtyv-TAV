@@ -1,0 +1,600 @@
+{
+  "name": "minecraft:village/bunker/rooms/small",
+  "fallback": "minecraft:village/bunker/rooms/fallback",
+  "elements": [
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_1",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_2",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_3",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_4",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_5",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_6",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_7",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_8",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_9",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_10",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_11",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_12",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_13",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_14",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_15",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/room/small/variant_16_sq",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_1",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_2",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_3",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_4",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_5",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_6",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_7",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_8",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_9",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_10",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_11",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_12",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_13",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_14",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_15",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_16",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/short/variant_17",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_1",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_2",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_3",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_4",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_5",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_6",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_7",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_8",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_9",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_10",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_11",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_12",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_13",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_14",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_15",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_16",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/medium/variant_17",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_1",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_2",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_3",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_4",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_5",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_6",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_7",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_8",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_9",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_10",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_11",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_12",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_13",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_14",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_15",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/bunker/room/big/variant_16",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

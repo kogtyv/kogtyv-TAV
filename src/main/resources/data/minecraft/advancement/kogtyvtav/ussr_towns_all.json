@@ -1,0 +1,155 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:stone_bricks"
+    },
+    "title": "Soviet Town's",
+    "description": "Find all the Soviet cities",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:kogtyvtav/ussr_towns",
+  "criteria": {
+    "minecraft:ussr_fifth": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_fifth"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:ussr_corgi": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_corgi"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:ussr_medium_brick": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_medium_brick"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:ussr_medium_mix": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_medium_mix"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:ussr_medium_ninth": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_medium_ninth"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:ussr_small_fifth": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_small_fifth"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:ussr_village_saman": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ussr_village_saman"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:ussr_village_saman"
+    ],
+    [
+      "minecraft:ussr_corgi"
+    ],
+    [
+      "minecraft:ussr_fifth"
+    ],
+    [
+      "minecraft:ussr_medium_brick"
+    ],
+    [
+      "minecraft:ussr_medium_mix"
+    ],
+    [
+      "minecraft:ussr_medium_ninth"
+    ],
+    [
+      "minecraft:ussr_small_fifth"
+    ]
+  ],
+  "rewards": {
+    "experience": 800
+  },
+  "sends_telemetry_event": false
+}

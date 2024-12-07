@@ -1,0 +1,51 @@
+{
+  "name": "minecraft:village/villagers/taiga",
+  "fallback": "minecraft:village/villagers/taiga",
+  "elements": [
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/villagers/taiga/default",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/villagers/taiga/nitvit",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/villagers/taiga/baby",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/villagers/taiga/wolint",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/villagers/taiga/nerkin",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

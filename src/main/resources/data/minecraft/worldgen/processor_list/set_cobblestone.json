@@ -31,7 +31,7 @@
             "block": "minecraft:air"
           },
           "output_state": {
-            "Name": "minecraft:cobblestone"
+            "Name": "minecraft:mossy_cobblestone"
           }
         }
       ]

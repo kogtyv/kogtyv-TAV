@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:village/europe/furniture/chests",
+  "fallback": "minecraft:village/europe/furniture/chests",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/furniture/chests/chest/double_1",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

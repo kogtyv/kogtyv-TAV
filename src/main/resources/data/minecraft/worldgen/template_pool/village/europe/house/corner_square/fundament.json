@@ -1,0 +1,42 @@
+{
+  "name": "minecraft:village/europe/house/corner_square/fundament",
+  "fallback": "minecraft:village/europe/house/corner_square/fundament",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/corner_square/fundament_a",
+        "processors": "minecraft:set_stone_briques",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/corner_square/fundament_b",
+        "processors": "minecraft:set_stone_briques",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/corner_square/fundament_c",
+        "processors": "minecraft:set_stone_briques",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/corner_square/fundament_d",
+        "processors": "minecraft:set_stone_briques",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

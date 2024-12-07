@@ -14,6 +14,15 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/home_balkon",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/p3basya_7_shop/home",
         "processors": "minecraft:village_common",
         "projection": "rigid",
@@ -23,7 +32,25 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_shop/home_balkon",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/yuzhnoukrayinsk_svechka/home",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/yuzhnoukrayinsk_svechka/home_decore",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -50,7 +77,43 @@
     {
       "weight": 150,
       "element": {
+        "location": "minecraft:village/ussr/houses/kogtyv_5_bryezhnyevka/home_decore",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
         "location": "minecraft:village/ussr/houses/twobalkon9/home",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/ussr/houses/twobalkon9/home_decore",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/ussr/houses/hospital_a/main",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/ussr/works/dining_hall/home",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

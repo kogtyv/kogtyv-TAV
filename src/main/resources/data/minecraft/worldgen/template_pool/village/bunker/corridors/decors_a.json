@@ -1,0 +1,879 @@
+{
+  "name": "minecraft:village/bunker/corridors/decors_a",
+  "fallback": "minecraft:village/bunker/corridors/decors_a",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_1",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_2",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_3",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_4",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_5",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_6",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_7",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_8",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_9",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_10",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_11",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_12",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_13",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_14",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_15",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_16",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_17",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_18",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_19",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_20",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_21",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_22",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_23",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_24",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_25",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_26",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_27",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_28",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_29",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_30",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_31",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_32",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_33",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_34",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_35",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_36",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_37",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_38",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_39",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_40",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_41",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_42",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_43",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_44",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_45",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_46",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_47",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_48",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_49",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_50",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_51",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_52",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_53",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_54",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_55",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_56",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_57",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_58",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_59",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_60",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_61",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_62",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_63",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_64",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_65",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_66",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_67",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_68",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_69",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_70",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_71",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_72",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_73",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_74",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_75",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_76",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_77",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_78",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_79",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_80",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_81",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_82",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_83",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_84",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_85",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_86",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_87",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_88",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_89",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_90",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_91",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_92",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_93",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_94",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_95",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_96",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/bunker/corridor/decors/variant_97",
+        "processors": "minecraft:patern_bunker_a",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

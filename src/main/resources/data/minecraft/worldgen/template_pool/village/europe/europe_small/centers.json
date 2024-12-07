@@ -1,0 +1,24 @@
+{
+  "name": "minecraft:village/europe/europe_small/centers",
+  "fallback": "minecraft:village/europe/europe_small/centers",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/centers/rynek_well",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/europe_small/centers/fontane",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

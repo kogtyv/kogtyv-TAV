@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:chiseled_tuff_bricks"
+    },
+    "title": "kogtyv-TAV 1.4.1",
+    "description": "I thank you for downloading my mod, onward for adventures and exploring the dark secrets of cities",
+    "background": "minecraft:textures/block/tuff_bricks.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

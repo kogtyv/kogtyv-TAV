@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bell",
+      "count": 1
+    },
+    "title": {
+      "text": "Crazy-Don"
+    },
+    "description": {
+      "text": "Ring the bell"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:kogtyvtav/craft_bell",
+  "criteria": {
+    "ring_bell": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": {
+          "type": "minecraft:player",
+          "movement_affected_by": {
+            "block": {
+              "blocks": "minecraft:bell"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ring_bell"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

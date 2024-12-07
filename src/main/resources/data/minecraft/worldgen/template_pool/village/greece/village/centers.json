@@ -1,6 +1,5 @@
 {
   "name": "minecraft:village/greece/village/centers",
-  "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,

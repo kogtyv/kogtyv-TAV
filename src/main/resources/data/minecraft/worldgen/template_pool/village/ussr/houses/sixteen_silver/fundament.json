@@ -1,0 +1,24 @@
+{
+  "name": "minecraft:village/ussr/houses/sixteen_silver/fundament",
+  "fallback": "minecraft:village/ussr/houses/sixteen_silver/fundament",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/sixteen_silver/fundament",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/sixteen_silver/fundament_b",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

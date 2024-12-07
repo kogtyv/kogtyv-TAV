@@ -1,0 +1,114 @@
+{
+  "name": "minecraft:village/europe/house/longer_medium/roof",
+  "fallback": "minecraft:village/europe/house/longer_medium/roof",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/pink",
+        "processors": "minecraft:roof_colour/pink",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/silver",
+        "processors": "minecraft:roof_colour/silver",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/red",
+        "processors": "minecraft:roof_colour/red",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/orange",
+        "processors": "minecraft:roof_colour/orange",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/yellow",
+        "processors": "minecraft:roof_colour/yellow",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/lime",
+        "processors": "minecraft:roof_colour/lime",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/blue",
+        "processors": "minecraft:roof_colour/dark_blue",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/magenta",
+        "processors": "minecraft:roof_colour/magenta",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/light_blue",
+        "processors": "minecraft:roof_colour/blue",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/dark_browny",
+        "processors": "minecraft:roof_colour/browny",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/browny",
+        "processors": "minecraft:roof_colour/chaprach",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "minecraft:village/europe/house/longer_medium/roof/gray",
+        "processors": "minecraft:roof_colour/gray",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

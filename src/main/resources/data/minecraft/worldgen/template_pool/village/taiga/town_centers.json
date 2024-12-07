@@ -5,34 +5,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/taiga/poland/centers/old_rynek_small",
-        "processors": "minecraft:village_common",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/taiga/poland/centers/old_rynek_big",
-        "processors": "minecraft:village_common",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/taiga/poland/centers/old_fountain_small",
-        "processors": "minecraft:village_common",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/taiga/poland/centers/old_fountain_big",
+        "location": "minecraft:village/taiga/centers/null",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

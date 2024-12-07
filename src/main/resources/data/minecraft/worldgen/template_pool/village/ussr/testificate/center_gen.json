@@ -1,0 +1,16 @@
+{
+  "name": "minecraft:village/ussr/testificate/center_gen",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "override_liquid_settings":"ignore_waterlogging",
+        "location": "minecraft:village/ussr/testeficate/testguene",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
