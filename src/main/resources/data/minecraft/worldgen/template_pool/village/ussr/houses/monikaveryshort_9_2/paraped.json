@@ -1,0 +1,42 @@
+{
+  "name": "minecraft:village/ussr/houses/monikaveryshort_9_2/paraped",
+  "fallback": "minecraft:village/ussr/houses/monikaveryshort_9_2/paraped",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/monikaveryshort_9_2/paraped/paraped_wood",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/monikaveryshort_9_2/paraped/paraped_wood2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/monikaveryshort_9_2/paraped/paraped_wood3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/monikaveryshort_9_2/paraped/paraped_iron",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

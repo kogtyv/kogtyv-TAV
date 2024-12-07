@@ -1,0 +1,38 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 12062024,
+    "separation": 8,
+    "spacing": 34
+  },
+  "structures": [
+    {
+      "structure": "minecraft:ussr_fifth",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ussr_medium_brick",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ussr_medium_mix",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ussr_medium_ninth",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ussr_small_fifth",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ussr_village_saman",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:village_greece",
+      "weight": 1
+    }
+  ]
+}

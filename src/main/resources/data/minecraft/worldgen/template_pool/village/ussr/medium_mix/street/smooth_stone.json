@@ -1,0 +1,75 @@
+{
+  "name": "minecraft:village/ussr/medium_mix/street/smooth_stone",
+  "fallback": "minecraft:village/ussr/medium_mix/street/terminator_smooth_stone",
+  "elements": [
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_mix/street/smooth_stone/street_1",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_mix/street/smooth_stone/street_2",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_mix/street/smooth_stone/street_3",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_mix/street/smooth_stone/street_4",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_mix/street/smooth_stone/street_5",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/ussr/medium_mix/street/smooth_stone/street_6",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft:village/ussr/streets/5th_brick/sidewalk/nothing",
+        "processors": "minecraft:village_cement_street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

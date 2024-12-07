@@ -1,0 +1,33 @@
+{
+  "name": "minecraft:village/ussr/medium_9th/center",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/center/soviet_statuye",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/center/soviet_rada",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/medium_9th/center/soviet_altanka",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

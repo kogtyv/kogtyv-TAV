@@ -1,0 +1,48 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:polished_andesite"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:gray_concrete_powder"
+          },
+          "output_state": {
+            "Name": "minecraft:gray_concrete_powder"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:polished_andesite"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:gravel"
+          },
+          "output_state": {
+            "Name": "minecraft:gray_concrete_powder"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:block_ignore",
+      "blocks": [
+        {
+          "Name": "minecraft:barrier"
+        }
+      ]
+    }
+  ]
+}

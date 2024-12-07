@@ -1,0 +1,42 @@
+{
+  "name": "minecraft:village/ussr/medium_brick/center",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/medium_brick/center/victory",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/medium_brick/center/aleye",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/medium_brick/center/meriya",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/medium_brick/center/hospital",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/p3basya_7_clasic_b",
+  "fallback": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/p3basya_7_clasic_b",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_a",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_b",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_c",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_d",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_e",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_f",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_g",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_h",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/ussr/houses/p3basya_7_clasic/flats/flats_verybig_a_i",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "minecraft:village/ussr/houses/kogtyvlea_9_1/dvor",
+  "fallback": "minecraft:village/ussr/houses/kogtyvlea_9_1/dvor",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/dvor/dvor_variant1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/dvor/dvor_variant2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/dvor/dvor_variant3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/dvor/dvor_variant4",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

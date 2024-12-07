@@ -1,0 +1,77 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:village/ussr/houses/minishop/home_v1",
+        "processors": "minecraft:street_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:village/ussr/houses/minishop/home_v2",
+        "processors": "minecraft:street_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:village/ussr/houses/minishop/home_v3",
+        "processors": "minecraft:street_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:village/ussr/houses/minishop/home_v4",
+        "processors": "minecraft:street_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:village/ussr/houses/minishop/home_v5",
+        "processors": "minecraft:street_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:village/ussr/houses/minishop/home_v6",
+        "processors": "minecraft:street_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:village/ussr/houses/minishop/home_v7",
+        "processors": "minecraft:street_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:village/ussr/houses/minishop/home_v8",
+        "processors": "minecraft:street_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

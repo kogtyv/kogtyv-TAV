@@ -1,0 +1,78 @@
+{
+  "name": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/kogtyvlea_9_1c",
+  "fallback": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/kogtyvlea_9_1c",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/flats_small_b_a",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/flats_small_b_b",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/flats_small_b_c",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/flats_small_b_d",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/flats_small_b_e",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/flats_small_b_f",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/flats_small_b_g",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/kogtyvlea_9_1/flats/flats_small_b_h",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
