@@ -3,7 +3,7 @@ Name: kogtyv-Towny And Village [k-TAV]
 Author: kogtyv
 Helping Build: Mr_Divar
 Helping: Jaeforsz
-Datapack version: 1.5 (13112024V21) [WISH COLOURED UPDATE]
+Datapack version: 1.5 (08122024V21) [WISH COLOURED UPDATE]
 Discord Community: https://discord.gg/RQBWwGEzHC
 
 By: kogtyv 2024
