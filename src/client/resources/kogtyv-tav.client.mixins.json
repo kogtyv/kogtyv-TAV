@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "kogtyv.tav.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"kogtyvgentavClient"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

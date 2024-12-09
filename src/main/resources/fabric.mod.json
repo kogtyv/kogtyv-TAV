@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "kogtyv_wom",
+	"id": "kogtyv-tav",
 	"version": "${version}",
 	"name": "kogtyv-TAV",
-	"description": "This mod adds miniature cities to your world. There are currently two types of city \"USSR\" and \"Old Poland\". These cities are generated in plain and taiga biome. The buildings are generated in different ways, the layout of the rooms has many variations, there are also external decorations of the houses. Everything is assembled with the help of a jigsaw block into a single structure. The theme of the first city - old Soviet panel houses, with factories and stores, here you can also find monuments, fountains, flowerbeds. The cities were built up very densely. The theme of the second city is old architectural middle Ages houses, the cities are usually small in size, have no factories and enterprises, only small stores. \n\n Helping build: Mr_Divar",
+	"description": "This mod adds miniature cities to your world. There are currently two types of city \"USSR\" and \"Old Poland\". These cities are generated in plain and taiga biome. The buildings are generated in different ways, the layout of the rooms has many variations, there are also external decorations of the houses. Everything is assembled with the help of a jigsaw block into a single structure. The theme of the first city - old Soviet panel houses, with factories and stores, here you can also find monuments, fountains, flowerbeds. The cities were built up very densely. The theme of the second city is old architectural middle Ages houses, the cities are usually small in size, have no factories and enterprises, only small stores. \n\n Helping build: Mr_Divar\",\n",
 	"authors": [
 		"kogtyv",
 		"Mr_Divar"
@@ -13,27 +13,27 @@
 		"sources": "https://github.com/kogtyv/kogtyv-TAV"
 	},
 	"license": "MIT",
-	"icon": "assets/kogtyv_wom/icon.png",
+	"icon": "assets/kogtyv_tav/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.kogtyv.wom.WomMod"
+			"kogtyv.tav.KogtyvTAV"
 		],
 		"client": [
-			"com.kogtyv.wom.WomModClient"
+			"kogtyv.tav.KogtyvTAVClient"
 		]
 	},
 	"mixins": [
-		"wom.mixins.json",
+		"kogtyv-tav.mixins.json",
 		{
-			"config": "wom.client.mixins.json",
+			"config": "kogtyv-tav.client.mixins.json",
 			"environment": "client"
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.15.0",
-		"minecraft": ">=1.20",
-		"java": ">=17",
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.21",
+		"java": ">=21",
 		"fabric-api": "*"
 	},
 	"suggests": {
