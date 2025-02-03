@@ -1,11 +1,11 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:chiseled_tuff_bricks"
+      "id": "minecraft:green_concrete_powder"
     },
-    "title": "kogtyv-TAV 1.4.1",
+    "title": "kogtyv-TAV 1.5",
     "description": "I thank you for downloading my mod, onward for adventures and exploring the dark secrets of cities",
-    "background": "minecraft:textures/block/tuff_bricks.png",
+    "background": "minecraft:textures/block/light_blue_concrete_powder.png",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
